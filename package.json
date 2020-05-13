@@ -1,0 +1,26 @@
+{
+  "name": "flexoton",
+  "version": "0.0.1",
+  "description": "Flexbox based website starter",
+  "main": "index.html",
+  "scripts": {
+    "serve": "php -S localhost:8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladootz/Skeleton.git"
+  },
+  "keywords": [
+    "flexbox",
+    "skeleton",
+    "html",
+    "css",
+    "boilerplate"
+  ],
+  "author": "Vlad Nastasiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladootz/Skeleton/issues"
+  },
+  "homepage": "https://github.com/vladootz/Skeleton#readme"
+}
